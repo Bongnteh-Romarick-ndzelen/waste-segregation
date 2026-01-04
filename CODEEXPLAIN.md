@@ -1,5 +1,5 @@
 ```markdown
-# CODEEXPLAIN.md  
+# CODEEXPLAIN.md
 **Code Explanation for Automated Waste Segregation System**  
 *Computer Vision Project – Group 9, NAHPI/COME L500*  
 *Instructor: Mr. Taku Otto Che*  

@@ -83,12 +83,25 @@ dataset/
 
 ### Installation & Setup
 
-1. Install dependencies:
+1. Create a Virtual Environment.
+  # Windows
+python -m venv venv
+
+# macOS / Linux
+python3 -m venv venv
+
+2. Activate the Virtual Environment
+   # Windows
+venv\Scripts\activate
+
+# macOS / Linux
+source venv/bin/activate
+3. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
 
-2. (Optional) Create test images folder:
+4. (Optional) Create test images folder:
    ```bash
    mkdir test_images
    ```
